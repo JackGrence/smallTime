@@ -1,0 +1,19 @@
+C:\Users\JackGreen\AppData\Local\Temporary Projects\Small_Time\bin\Debug\Small_Time.exe
+C:\Users\JackGreen\AppData\Local\Temporary Projects\Small_Time\bin\Debug\Small_Time.pdb
+C:\Users\JackGreen\AppData\Local\Temporary Projects\Small_Time\bin\Debug\Small_Time.xml
+C:\Users\JackGreen\AppData\Local\Temporary Projects\Small_Time\obj\x86\Debug\Small_Time.Form1.resources
+C:\Users\JackGreen\AppData\Local\Temporary Projects\Small_Time\obj\x86\Debug\Small_Time.Resources.resources
+C:\Users\JackGreen\AppData\Local\Temporary Projects\Small_Time\obj\x86\Debug\Small_Time.vbproj.GenerateResource.Cache
+C:\Users\JackGreen\AppData\Local\Temporary Projects\Small_Time\obj\x86\Debug\Small_Time.exe
+C:\Users\JackGreen\AppData\Local\Temporary Projects\Small_Time\obj\x86\Debug\Small_Time.xml
+C:\Users\JackGreen\AppData\Local\Temporary Projects\Small_Time\obj\x86\Debug\Small_Time.pdb
+C:\Users\JackGreen\Desktop\VB\Small_Time\Small_Time\obj\x86\Debug\Small_Time.exe
+C:\Users\JackGreen\Desktop\VB\Small_Time\Small_Time\obj\x86\Debug\Small_Time.xml
+C:\Users\JackGreen\Desktop\VB\Small_Time\Small_Time\obj\x86\Debug\Small_Time.pdb
+C:\Users\JackGreen\Desktop\VB\Small_Time\Small_Time\bin\Debug\Small_Time.exe
+C:\Users\JackGreen\Desktop\VB\Small_Time\Small_Time\bin\Debug\Small_Time.pdb
+C:\Users\JackGreen\Desktop\VB\Small_Time\Small_Time\bin\Debug\Small_Time.xml
+C:\Users\JackGreen\Desktop\VB\Small_Time\Small_Time\obj\x86\Debug\Small_Time.Form1.resources
+C:\Users\JackGreen\Desktop\VB\Small_Time\Small_Time\obj\x86\Debug\Small_Time.Resources.resources
+C:\Users\JackGreen\Desktop\VB\Small_Time\Small_Time\obj\x86\Debug\Small_Time.vbproj.GenerateResource.Cache
+C:\Users\JackGreen\Desktop\VB\Small_Time\Small_Time\obj\x86\Debug\Small_Time.Form2.resources
